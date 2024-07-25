@@ -1,0 +1,59 @@
+D:\Employee management system\Employee management system\bin\Employee management system.dll.config
+D:\Employee management system\Employee management system\bin\Employee management system.dll
+D:\Employee management system\Employee management system\bin\Employee management system.pdb
+D:\Employee management system\Employee management system\bin\roslyn\csc.exe
+D:\Employee management system\Employee management system\bin\roslyn\csc.exe.config
+D:\Employee management system\Employee management system\bin\roslyn\csc.rsp
+D:\Employee management system\Employee management system\bin\roslyn\csi.exe
+D:\Employee management system\Employee management system\bin\roslyn\csi.exe.config
+D:\Employee management system\Employee management system\bin\roslyn\csi.rsp
+D:\Employee management system\Employee management system\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Employee management system\Employee management system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Employee management system\Employee management system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Employee management system\Employee management system\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Employee management system\Employee management system\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Employee management system\Employee management system\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Employee management system\Employee management system\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Employee management system\Employee management system\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Employee management system\Employee management system\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Employee management system\Employee management system\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Employee management system\Employee management system\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Employee management system\Employee management system\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.AppContext.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Collections.Immutable.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Console.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Globalization.Calendars.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.IO.Compression.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.IO.FileSystem.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Net.Http.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Net.Sockets.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Reflection.Metadata.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.ValueTuple.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Xml.XPath.dll
+D:\Employee management system\Employee management system\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Employee management system\Employee management system\bin\roslyn\vbc.exe
+D:\Employee management system\Employee management system\bin\roslyn\vbc.exe.config
+D:\Employee management system\Employee management system\bin\roslyn\vbc.rsp
+D:\Employee management system\Employee management system\bin\roslyn\VBCSCompiler.exe
+D:\Employee management system\Employee management system\bin\roslyn\VBCSCompiler.exe.config
+D:\Employee management system\Employee management system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Employee management system\Employee management system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Employee management system\Employee management system\obj\Debug\Employee management system.csproj.AssemblyReference.cache
+D:\Employee management system\Employee management system\obj\Debug\Employee management system.csproj.CoreCompileInputs.cache
+D:\Employee management system\Employee management system\obj\Debug\Employee.26AB3C61.Up2Date
+D:\Employee management system\Employee management system\obj\Debug\Employee management system.dll
+D:\Employee management system\Employee management system\obj\Debug\Employee management system.pdb
