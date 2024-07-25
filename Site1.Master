@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Employee_management_system.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style3 {
+            width: 100%;
+        }
+        .auto-style4 {
+            text-align: center;
+            font-size: xx-large;
+            background-color: #99FF99;
+        }
+        .auto-style5 {
+            text-align: center;
+            background-color: #00CC99;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+            
+            &nbsp;<table class="auto-style3">
+                <tr>
+                    <td class="auto-style4"><strong>EMPLOYEE MANAGEMENT SYSTEM</strong></td>
+                </tr>
+                <tr>
+                    <td class="auto-style5">
+                        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/NewEmployee.aspx">New Employee</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Search Employee.aspx">Search Employee</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;&nbsp;
+                        <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Edit Employee.aspx">Edit Employee</asp:HyperLink>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/All Employee.aspx">All Employee</asp:HyperLink>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/Logout.aspx">Logout</asp:HyperLink>
+                    </td>
+                </tr>
+            </table>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>
